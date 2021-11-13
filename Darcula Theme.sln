@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Darcula Theme", "Darcula Theme\Darcula Theme.csproj", "{0C50D4D8-7353-4F24-AE6D-446C0E12F495}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C50D4D8-7353-4F24-AE6D-446C0E12F495}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C50D4D8-7353-4F24-AE6D-446C0E12F495}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C50D4D8-7353-4F24-AE6D-446C0E12F495}.Debug|x86.ActiveCfg = Debug|x86
+		{0C50D4D8-7353-4F24-AE6D-446C0E12F495}.Debug|x86.Build.0 = Debug|x86
+		{0C50D4D8-7353-4F24-AE6D-446C0E12F495}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C50D4D8-7353-4F24-AE6D-446C0E12F495}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C50D4D8-7353-4F24-AE6D-446C0E12F495}.Release|x86.ActiveCfg = Release|x86
+		{0C50D4D8-7353-4F24-AE6D-446C0E12F495}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4D07F8E1-4860-4110-B5F2-0A2EA5BE064F}
+	EndGlobalSection
+EndGlobal
