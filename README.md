@@ -1,4 +1,8 @@
 # Darcula
+
+[![Version](https://vsmarketplacebadge.apphb.com/version/FINNSEEFLY.Darcula-Theme-For-Visual-Studio.svg
+)](https://marketplace.visualstudio.com/items?itemName=FINNSEEFLY.Darcula-Theme-For-Visual-Studio)
+[![Installs](https://vsmarketplacebadge.apphb.com/installs/FINNSEEFLY.Darcula-Theme-For-Visual-Studio.svg)](https://marketplace.visualstudio.com/items?itemName=FINNSEEFLY.Darcula-Theme-For-Visual-Studio)
 ___
 
 ## Quick overview
@@ -31,7 +35,10 @@ You may have noticed that the font does not match the original one of JetBrains 
 To solve this issue, you need to [download](https://www.jetbrains.com/lp/mono/) 
 and install fonts from the official JetBrains website.
 
-Also, after choosing a theme, follow the path: Tools > Options > Environment > Fonts and Colors. 
+Also, after choosing a theme, follow the path: 
+
+**Tools > Options > Environment > Fonts and Colors**. 
+
 In the Font field, select one of the JetBrains fonts (I highly recommend JetBrains Mono)
 
 ___
