@@ -1803,7 +1803,7 @@
         <Background Type="CT_RAW" Source="FF3C3F41" />
       </Color>
       <Color Name="EnvironmentBackgroundGradientBegin">
-        <Background Type="CT_RAW" Source="FF2D2D30" />
+        <Background Type="CT_RAW" Source="FF3C3F41" />
         <Foreground Type="CT_RAW" Source="FF3C3F41" />
       </Color>
       <Color Name="EnvironmentBackgroundGradientEnd">
