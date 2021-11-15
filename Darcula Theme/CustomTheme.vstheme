@@ -5705,29 +5705,29 @@
         <Background Type="CT_RAW" Source="FF434346" />
       </Color>
       <Color Name="ButtonPressed">
-        <Background Type="CT_RAW" Source="FF007ACC" />
-        <Foreground Type="CT_RAW" Source="FFFFFFFF" />
+        <Background Type="CT_RAW" Source="FF365880" />
+        <Foreground Type="CT_RAW" Source="FFBBBBBB" />
       </Color>
       <Color Name="ButtonMouseOverBorder">
-        <Background Type="CT_RAW" Source="FF6A6A75" />
+        <Background Type="CT_RAW" Source="FF4C708C" />
       </Color>
       <Color Name="ButtonMouseOver">
-        <Background Type="CT_RAW" Source="FF54545C" />
-        <Foreground Type="CT_RAW" Source="FFF1F1F1" />
+        <Background Type="CT_RAW" Source="FF365880" />
+        <Foreground Type="CT_RAW" Source="FFBBBBBB" />
       </Color>
       <Color Name="ButtonDisabled">
-        <Background Type="CT_RAW" Source="FF252526" />
-        <Foreground Type="CT_RAW" Source="FF6D6D6D" />
+        <Background Type="CT_RAW" Source="FF4C5052" />
+        <Foreground Type="CT_RAW" Source="FF999999" />
       </Color>
       <Color Name="ButtonBorder">
-        <Background Type="CT_RAW" Source="FF54545C" />
+        <Background Type="CT_RAW" Source="FF4C708C" />
       </Color>
       <Color Name="Button">
-        <Background Type="CT_RAW" Source="FF3F3F46" />
-        <Foreground Type="CT_RAW" Source="FFF1F1F1" />
+        <Background Type="CT_RAW" Source="FF365880" />
+        <Foreground Type="CT_RAW" Source="FFBBBBBB" />
       </Color>
       <Color Name="ButtonPressedBorder">
-        <Background Type="CT_RAW" Source="FF1C97EA" />
+        <Background Type="CT_RAW" Source="FF4C708C" />
       </Color>
       <Color Name="CallToActionButton">
         <Background Type="CT_RAW" Source="FF007ACC" />
