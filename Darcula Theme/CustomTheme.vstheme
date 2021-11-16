@@ -1,5 +1,5 @@
 ﻿<Themes>
-  <Theme Name="Darcula (6)" GUID="{41199ea6-c4b9-46ad-a93f-25124a9f7ae3}" BaseGUID="{39f9ad4b-757a-45df-be76-d30f9484e454}">
+  <Theme Name="Darcula" GUID="{6b2d083a-a4c6-4210-941b-02c6778918ce}" BaseGUID="{41199ea6-c4b9-46ad-a93f-25124a9f7ae3}">
     <Category Name="ACDCOverview" GUID="{c8887ac6-3c60-4209-9d69-8f4c12a60044}">
       <Color Name="Chevron">
         <Foreground Type="CT_RAW" Source="FF3C3F41" />
@@ -1782,7 +1782,7 @@
         <Background Type="CT_RAW" Source="FF2B2B2B" />
       </Color>
       <Color Name="ScrollBarBackground">
-        <Background Type="CT_RAW" Source="003C3F41" />
+        <Background Type="CT_RAW" Source="FF3E3E42" />
       </Color>
       <Color Name="WindowText">
         <Background Type="CT_RAW" Source="FFB7B8B9" />
