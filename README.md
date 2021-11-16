@@ -42,6 +42,9 @@ Also, after choosing a theme, follow the path:
 In the Font field, select one of the JetBrains fonts (I highly recommend JetBrains Mono)
 
 ___
+## Changelog
+[Changelog](https://github.com/FINNSEEFLY/Darcula-Theme-VS-2022/blob/master/CHANGELOG.md)
+___
 ## Conclusion
 Special thanks to [rokoroku](https://marketplace.visualstudio.com/publishers/rokoroku),
 without his work on the theme ["Darcula Theme"](https://marketplace.visualstudio.com/items?itemName=rokoroku.vscode-theme-darcula)
