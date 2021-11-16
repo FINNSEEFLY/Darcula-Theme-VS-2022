@@ -1,5 +1,5 @@
 ﻿<Themes>
-  <Theme Name="Darcula" GUID="{432625b7-9870-4ba2-8f50-cc96335f23c9}" BaseGUID="{39f9ad4b-757a-45df-be76-d30f9484e454}">
+  <Theme Name="Darcula (6)" GUID="{41199ea6-c4b9-46ad-a93f-25124a9f7ae3}" BaseGUID="{39f9ad4b-757a-45df-be76-d30f9484e454}">
     <Category Name="ACDCOverview" GUID="{c8887ac6-3c60-4209-9d69-8f4c12a60044}">
       <Color Name="Chevron">
         <Foreground Type="CT_RAW" Source="FF3C3F41" />
@@ -1791,7 +1791,7 @@
         <Background Type="CT_RAW" Source="FF3C3F41" />
       </Color>
       <Color Name="AutoHideTabBackgroundEnd">
-        <Background Type="CT_RAW" Source="FF353739" />
+        <Background Type="CT_RAW" Source="FF3C3F41" />
       </Color>
       <Color Name="AutoHideTabMouseOverBackgroundBegin">
         <Background Type="CT_RAW" Source="FF353739" />
