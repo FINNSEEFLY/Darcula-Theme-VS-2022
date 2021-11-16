@@ -1,4 +1,4 @@
-## v 1.0.2
+## v1.0.2
 
 - Fix CommandBar (Run button, Debug button, etc.)
 - Fix TeamExplorer button (Commit button)
@@ -8,7 +8,7 @@
 - Fix Autohide background
 - Fix output panel background
 
-## v 1.0.1
+## v1.0.1
 
 Fix Environment colors
 - ScrollBar
