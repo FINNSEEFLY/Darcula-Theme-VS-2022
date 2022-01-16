@@ -1,5 +1,5 @@
 ﻿<Themes>
-  <Theme Name="Darcula" GUID="{5100be3d-c530-4fe8-94a2-2e5621793a68}" BaseGUID="{0024020f-bba3-4365-9ea1-63b23313d509}">
+  <Theme Name="Darcula" GUID="{c0a495a8-c7ce-4bbc-9204-2277b4025e81}" BaseGUID="{0024020f-bba3-4365-9ea1-63b23313d509}">
     <Category Name="ACDCOverview" GUID="{c8887ac6-3c60-4209-9d69-8f4c12a60044}">
       <Color Name="Chevron">
         <Foreground Type="CT_RAW" Source="FF3C3F41" />

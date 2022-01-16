@@ -1,3 +1,9 @@
+## v1.0.3
+
+- Fix output panel background сolor
+- Fix search controls
+- Some inconspicuous updates
+
 ## v1.0.2
 
 - Fix CommandBar (Run button, Debug button, etc.)
