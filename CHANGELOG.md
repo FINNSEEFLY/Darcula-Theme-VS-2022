@@ -1,3 +1,9 @@
+## v1.0.4
+
+- Fix number literal color
+- Update grid color
+- Some inconspicuous updates
+
 ## v1.0.3
 
 - Fix output panel background сolor
