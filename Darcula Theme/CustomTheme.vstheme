@@ -1,5 +1,5 @@
-﻿<Themes>
-  <Theme Name="Darcula" GUID="{c0a495a8-c7ce-4bbc-9204-2277b4025e81}" BaseGUID="{0024020f-bba3-4365-9ea1-63b23313d509}">
+﻿	<Themes>
+  <Theme Name="Darcula" GUID="{ede2e703-ceea-4f32-8c92-899b2be5bc78}" BaseGUID="{c0a495a8-c7ce-4bbc-9204-2277b4025e81}">
     <Category Name="ACDCOverview" GUID="{c8887ac6-3c60-4209-9d69-8f4c12a60044}">
       <Color Name="Chevron">
         <Foreground Type="CT_RAW" Source="FF3C3F41" />
@@ -2020,7 +2020,7 @@
         <Background Type="CT_RAW" Source="FF3C3F41" />
       </Color>
       <Color Name="ToolWindowContentGrid">
-        <Background Type="CT_RAW" Source="FF3C3F41" />
+        <Background Type="CT_RAW" Source="FF383838" />
       </Color>
       <Color Name="ToolWindowTabSelectedBorder">
         <Background Type="CT_RAW" Source="FF2D2F30" />
@@ -5865,7 +5865,7 @@
       </Color>
       <Color Name="Number">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF6E8CC4" />
+        <Foreground Type="CT_RAW" Source="FF6897BB" />
       </Color>
       <Color Name="XML CData Section">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
@@ -6024,7 +6024,7 @@
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
     </Category>
-    <Category Name="Cpp Text Editor MEF Items" GUID="{75a05685-00a8-4ded-bae5-e7a50bfa929a}">
+    <Category Name="ReSharper Highlighting" GUID="{75a05685-00a8-4ded-bae5-e7a50bfa929a}">
       <Color Name="HTML Operator">
         <Background Type="CT_INVALID" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FFB7B8B9" />
@@ -7981,6 +7981,42 @@
         <Background Type="CT_INVALID" Source="00000000" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
+      <Color Name="dotCover_CoveredStatementFormatDefinition">
+        <Background Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_INVALID" Source="00000000" />
+      </Color>
+      <Color Name="dotCover Code Highlighter (Uncovered)">
+        <Background Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_INVALID" Source="00000000" />
+      </Color>
+      <Color Name="dotCover Code Marker (Uncovered)">
+        <Background Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_INVALID" Source="00000000" />
+      </Color>
+      <Color Name="dotCover Code Highlighter (Covered)">
+        <Background Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_INVALID" Source="00000000" />
+      </Color>
+      <Color Name="dotCover Code Marker (Covered)">
+        <Background Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_INVALID" Source="00000000" />
+      </Color>
+      <Color Name="dotCover Code Highlighter (Covered by Successful Tests)">
+        <Background Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_INVALID" Source="00000000" />
+      </Color>
+      <Color Name="dotCover Code Marker (Covered by Successful Tests)">
+        <Background Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_INVALID" Source="00000000" />
+      </Color>
+      <Color Name="dotCover Code Highlighter (Covered by Failed Tests)">
+        <Background Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_INVALID" Source="00000000" />
+      </Color>
+      <Color Name="dotCover Code Marker (Covered by Failed Tests)">
+        <Background Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_INVALID" Source="00000000" />
+      </Color>
     </Category>
     <Category Name="Text Editor Text Manager Items" GUID="{58e96763-1d3b-4e05-b6ba-ff7115fd0b7b}">
       <Color Name="Visible Whitespace">
@@ -8350,6 +8386,10 @@
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="Coverage Partially Touched Area">
+        <Background Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_INVALID" Source="00000000" />
+      </Color>
+      <Color Name="Coverage Not Touched Area">
         <Background Type="CT_INVALID" Source="00000000" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
@@ -9269,7 +9309,7 @@
         <Background Type="CT_RAW" Source="FF1E1E1E" />
       </Color>
       <Color Name="Squiggly">
-        <Background Type="CT_SYSCOLOR" Source="0000001B" />
+        <Background Type="CT_RAW" Source="FFB9D1EA" />
       </Color>
       <Color Name="LiveMetricsRequestStroke">
         <Background Type="CT_RAW" Source="FF56B45D" />
