@@ -3,6 +3,7 @@
 [![Version](https://vsmarketplacebadge.apphb.com/version/FINNSEEFLY.Darcula-Theme-For-Visual-Studio.svg
 )](https://marketplace.visualstudio.com/items?itemName=FINNSEEFLY.Darcula-Theme-For-Visual-Studio)
 [![Installs](https://vsmarketplacebadge.apphb.com/installs/FINNSEEFLY.Darcula-Theme-For-Visual-Studio.svg)](https://marketplace.visualstudio.com/items?itemName=FINNSEEFLY.Darcula-Theme-For-Visual-Studio)
+[![Rating](https://vsmarketplacebadge.apphb.com/rating/FINNSEEFLY.Darcula-Theme-For-Visual-Studio.svg)](https://marketplace.visualstudio.com/items?itemName=FINNSEEFLY.Darcula-Theme-For-Visual-Studio)
 ___
 
 ## Quick overview

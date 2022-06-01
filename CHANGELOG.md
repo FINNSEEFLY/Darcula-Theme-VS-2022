@@ -1,3 +1,10 @@
+## v1.0.6
+
+- Fix publish screen background (issue #7)
+- Rework XML highlighting
+- Fix some headers
+- Some inconspicuous updates
+
 ## v1.0.5
 
 - Fix whitespace color
