@@ -1,3 +1,8 @@
+## v1.0.7
+
+- Enhance the drag handles colors
+- Fix colors in the tree view (issue #9)
+
 ## v1.0.6
 
 - Fix publish screen background (issue #7)

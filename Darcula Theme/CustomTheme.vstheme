@@ -1,5 +1,5 @@
 ﻿	<Themes>
-  <Theme Name="Darcula" GUID="{cb383dee-d9dc-448b-853c-40004c650fe1}" BaseGUID="{ff9c7989-cbb6-44c5-bdc8-bef3ac5e126e}">
+  <Theme Name="Darcula" GUID="{24715244-93eb-48d8-8b62-8fc3102aa965}" BaseGUID="{cb383dee-d9dc-448b-853c-40004c650fe1}">
     <Category Name="ACDCOverview" GUID="{c8887ac6-3c60-4209-9d69-8f4c12a60044}">
       <Color Name="Chevron">
         <Foreground Type="CT_RAW" Source="FF3C3F41" />
@@ -227,10 +227,10 @@
         <Background Type="CT_RAW" Source="FF3C3F41" />
       </Color>
       <Color Name="StructureViewDropTargetSplit">
-        <Background Type="CT_RAW" Source="FF3C3F41" />
+        <Background Type="CT_RAW" Source="FF4B6EAF" />
       </Color>
       <Color Name="StructureViewInsertionContainer">
-        <Background Type="CT_RAW" Source="FF3C3F41" />
+        <Background Type="CT_RAW" Source="FF4B6EAF" />
       </Color>
       <Color Name="TimelineDurationBarIterationDivider">
         <Background Type="CT_RAW" Source="FF3C3F41" />
@@ -570,7 +570,7 @@
         <Background Type="CT_RAW" Source="FFF1F1F1" />
       </Color>
       <Color Name="StructureViewActiveContainer">
-        <Background Type="CT_RAW" Source="FFEDC865" />
+        <Background Type="CT_RAW" Source="FF0D293E" />
       </Color>
       <Color Name="Style">
         <Background Type="CT_RAW" Source="FF6495ED" />
@@ -2375,7 +2375,7 @@
         <Background Type="CT_RAW" Source="FF3C3F41" />
       </Color>
       <Color Name="TitleBarDragHandleActive">
-        <Background Type="CT_RAW" Source="FF3C3F41" />
+        <Background Type="CT_RAW" Source="FF565959" />
       </Color>
       <Color Name="TitleBarInactive">
         <Background Type="CT_RAW" Source="FF3C3F41" />
@@ -3837,7 +3837,7 @@
         <Background Type="CT_RAW" Source="FFFFFFFF" />
       </Color>
       <Color Name="TitleBarDragHandle">
-        <Background Type="CT_RAW" Source="FF46464A" />
+        <Background Type="CT_RAW" Source="FF565959" />
       </Color>
       <Color Name="TitleBarInactiveText">
         <Background Type="CT_RAW" Source="FFD0D0D0" />
