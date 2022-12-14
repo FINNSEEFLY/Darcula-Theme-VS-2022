@@ -1,3 +1,10 @@
+## v1.1.0
+
+- Fix highlight issues (issue https://github.com/FINNSEEFLY/Darcula-Theme-VS-2022/issues/12)
+- Add C++ support (issue https://github.com/FINNSEEFLY/Darcula-Theme-VS-2022/issues/4)
+- Fix some colors to better match the Darcula theme
+- Other improvements
+
 ## v1.0.7
 
 - Enhance the drag handles colors
