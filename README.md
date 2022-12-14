@@ -1,9 +1,9 @@
 # Darcula
 
-[![Version](https://vsmarketplacebadge.apphb.com/version/FINNSEEFLY.Darcula-Theme-For-Visual-Studio.svg
+[![Version](https://vsmarketplacebadges.dev/version/FINNSEEFLY.Darcula-Theme-For-Visual-Studio.svg
 )](https://marketplace.visualstudio.com/items?itemName=FINNSEEFLY.Darcula-Theme-For-Visual-Studio)
-[![Installs](https://vsmarketplacebadge.apphb.com/installs/FINNSEEFLY.Darcula-Theme-For-Visual-Studio.svg)](https://marketplace.visualstudio.com/items?itemName=FINNSEEFLY.Darcula-Theme-For-Visual-Studio)
-[![Rating](https://vsmarketplacebadge.apphb.com/rating/FINNSEEFLY.Darcula-Theme-For-Visual-Studio.svg)](https://marketplace.visualstudio.com/items?itemName=FINNSEEFLY.Darcula-Theme-For-Visual-Studio)
+[![Installs](https://vsmarketplacebadges.dev/installs/FINNSEEFLY.Darcula-Theme-For-Visual-Studio.svg)](https://marketplace.visualstudio.com/items?itemName=FINNSEEFLY.Darcula-Theme-For-Visual-Studio)
+[![Rating](https://vsmarketplacebadges.dev/rating-short/FINNSEEFLY.Darcula-Theme-For-Visual-Studio.svg)](https://marketplace.visualstudio.com/items?itemName=FINNSEEFLY.Darcula-Theme-For-Visual-Studio)
 ___
 
 ## Quick overview
