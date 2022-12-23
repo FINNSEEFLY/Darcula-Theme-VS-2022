@@ -1,3 +1,16 @@
+## v1.1.1.2
+
+#### This version is only available on the [Visual Studio marketplace](https://marketplace.visualstudio.com/items?itemName=FINNSEEFLY.Darcula-Theme-For-Visual-Studio) and it is completely identical to v1.1.1.
+
+Due to errors in the markup of the extension description, the release process v1.1.1 has been stopped. Unfortunately, after correcting the description, the version that is usually taken from the manifest remained from v1.1.1, but the extension itself remained v1.1.0.
+Since there is no way to replace the extension file on the Visual Studio marketplace without changing the version, v1.1.1.2 was released
+
+You can use both v1.1.1.2 from [Visual Studio marketplace](https://marketplace.visualstudio.com/items?itemName=FINNSEEFLY.Darcula-Theme-For-Visual-Studio) and v1.1.1 from [GitHub](https://github.com/FINNSEEFLY/Darcula-Theme-VS-2022/releases/tag/v1.1.1).
+
+## v1.1.1
+
+- Fix AXML highlighting issues (issue https://github.com/FINNSEEFLY/Darcula-Theme-VS-2022/issues/14)
+
 ## v1.1.0
 
 - Fix highlight issues (issue https://github.com/FINNSEEFLY/Darcula-Theme-VS-2022/issues/12)
