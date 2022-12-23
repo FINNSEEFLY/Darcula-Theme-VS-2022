@@ -1,6 +1,6 @@
 ﻿<Themes>
-	<Theme Name="Darcula" GUID="{17097992-ffd9-495d-95c3-19ea1a5d2112}"
-	       BaseGUID="{24715244-93eb-48d8-8b62-8fc3102aa965}">
+	<Theme Name="Darcula" GUID="{c42db19d-a400-47bb-9b4f-7395fb310c75}"
+	       BaseGUID="{17097992-ffd9-495d-95c3-19ea1a5d2112}">
 		<Category Name="ACDCOverview" GUID="{c8887ac6-3c60-4209-9d69-8f4c12a60044}">
 			<Color Name="Chevron">
 				<Foreground Type="CT_RAW" Source="FF3C3F41" />
@@ -8407,6 +8407,150 @@
 				<Background Type="CT_INVALID" Source="00000000" />
 				<Foreground Type="CT_INVALID" Source="00000000" />
 			</Color>
+			<Color Name="axml - attribute name">
+				<Background Type="CT_AUTOMATIC" Source="00000000" />
+				<Foreground Type="CT_RAW" Source="FFBABABA" />
+			</Color>
+			<Color Name="axml - attribute quotes">
+				<Background Type="CT_AUTOMATIC" Source="00000000" />
+				<Foreground Type="CT_RAW" Source="FF6A8759" />
+			</Color>
+			<Color Name="axml - attribute value">
+				<Background Type="CT_AUTOMATIC" Source="00000000" />
+				<Foreground Type="CT_RAW" Source="FF6A8759" />
+			</Color>
+			<Color Name="axml - cdata section">
+				<Background Type="CT_AUTOMATIC" Source="00000000" />
+				<Foreground Type="CT_RAW" Source="FFA9B7C6" />
+			</Color>
+			<Color Name="axml - comment">
+				<Background Type="CT_AUTOMATIC" Source="00000000" />
+				<Foreground Type="CT_RAW" Source="FF808080" />
+			</Color>
+			<Color Name="axml - delimiter">
+				<Background Type="CT_AUTOMATIC" Source="00000000" />
+				<Foreground Type="CT_RAW" Source="FFE8BF6A" />
+			</Color>
+			<Color Name="axml - entity reference">
+				<Background Type="CT_INVALID" Source="00000000" />
+				<Foreground Type="CT_RAW" Source="FF92CAF4" />
+			</Color>
+			<Color Name="axml - name">
+				<Background Type="CT_INVALID" Source="00000000" />
+				<Foreground Type="CT_RAW" Source="FFE8BF6A" />
+			</Color>
+			<Color Name="axml - processing instruction">
+				<Background Type="CT_INVALID" Source="00000000" />
+				<Foreground Type="CT_RAW" Source="FFAEAEAE" />
+			</Color>
+			<Color Name="axml - text">
+				<Background Type="CT_INVALID" Source="00000000" />
+				<Foreground Type="CT_RAW" Source="FFC8C8C8" />
+			</Color>
+			<Color Name="axml - resource url">
+				<Background Type="CT_INVALID" Source="00000000" />
+				<Foreground Type="CT_RAW" Source="FF6A8759" />
+			</Color>
+			<Color Name="ReSharper SQL Text">
+				<Background Type="CT_INVALID" Source="00000000" />
+				<Foreground Type="CT_INVALID" Source="00000000" />
+			</Color>
+			<Color Name="ReSharper SQL Keyword">
+				<Background Type="CT_INVALID" Source="00000000" />
+				<Foreground Type="CT_INVALID" Source="00000000" />
+			</Color>
+			<Color Name="ReSharper SQL Comment">
+				<Background Type="CT_INVALID" Source="00000000" />
+				<Foreground Type="CT_INVALID" Source="00000000" />
+			</Color>
+			<Color Name="ReSharper SQL Identifier">
+				<Background Type="CT_INVALID" Source="00000000" />
+				<Foreground Type="CT_INVALID" Source="00000000" />
+			</Color>
+			<Color Name="ReSharper SQL Number">
+				<Background Type="CT_INVALID" Source="00000000" />
+				<Foreground Type="CT_INVALID" Source="00000000" />
+			</Color>
+			<Color Name="ReSharper SQL Stored Procedure">
+				<Background Type="CT_INVALID" Source="00000000" />
+				<Foreground Type="CT_INVALID" Source="00000000" />
+			</Color>
+			<Color Name="ReSharper SQL System Table">
+				<Background Type="CT_INVALID" Source="00000000" />
+				<Foreground Type="CT_INVALID" Source="00000000" />
+			</Color>
+			<Color Name="ReSharper SQL System Function">
+				<Background Type="CT_INVALID" Source="00000000" />
+				<Foreground Type="CT_INVALID" Source="00000000" />
+			</Color>
+			<Color Name="ReSharper SQL Operator">
+				<Background Type="CT_INVALID" Source="00000000" />
+				<Foreground Type="CT_INVALID" Source="00000000" />
+			</Color>
+			<Color Name="ReSharper SQL String">
+				<Background Type="CT_INVALID" Source="00000000" />
+				<Foreground Type="CT_INVALID" Source="00000000" />
+			</Color>
+			<Color Name="ReSharper SQL Cmd Command">
+				<Background Type="CT_INVALID" Source="00000000" />
+				<Foreground Type="CT_INVALID" Source="00000000" />
+			</Color>
+			<Color Name="ReSharper SQL Error">
+				<Background Type="CT_INVALID" Source="00000000" />
+				<Foreground Type="CT_INVALID" Source="00000000" />
+			</Color>
+			<Color Name="ReSharper SQL Delimiter">
+				<Background Type="CT_INVALID" Source="00000000" />
+				<Foreground Type="CT_INVALID" Source="00000000" />
+			</Color>
+			<Color Name="ReSharper DPA Hyperlink">
+				<Background Type="CT_INVALID" Source="00000000" />
+				<Foreground Type="CT_INVALID" Source="00000000" />
+			</Color>
+			<Color Name="ReSharper DPA Caption">
+				<Background Type="CT_INVALID" Source="00000000" />
+				<Foreground Type="CT_INVALID" Source="00000000" />
+			</Color>
+			<Color Name="ReSharper DPA Metric">
+				<Background Type="CT_INVALID" Source="00000000" />
+				<Foreground Type="CT_INVALID" Source="00000000" />
+			</Color>
+			<Color Name="ReSharper DPA Metric context">
+				<Background Type="CT_INVALID" Source="00000000" />
+				<Foreground Type="CT_INVALID" Source="00000000" />
+			</Color>
+			<Color Name="ReSharper DPA Type">
+				<Background Type="CT_INVALID" Source="00000000" />
+				<Foreground Type="CT_INVALID" Source="00000000" />
+			</Color>
+			<Color Name="ReSharper Keyword">
+				<Background Type="CT_INVALID" Source="00000000" />
+				<Foreground Type="CT_INVALID" Source="00000000" />
+			</Color>
+			<Color Name="ReSharper C++ Module Identifier">
+				<Background Type="CT_INVALID" Source="00000000" />
+				<Foreground Type="CT_INVALID" Source="00000000" />
+			</Color>
+			<Color Name="ReSharper C# Keyword">
+				<Background Type="CT_INVALID" Source="00000000" />
+				<Foreground Type="CT_INVALID" Source="00000000" />
+			</Color>
+			<Color Name="ReSharper Bookmark Line">
+				<Background Type="CT_INVALID" Source="00000000" />
+				<Foreground Type="CT_INVALID" Source="00000000" />
+			</Color>
+			<Color Name="ReSharper Regex Quantifier">
+				<Background Type="CT_INVALID" Source="00000000" />
+				<Foreground Type="CT_INVALID" Source="00000000" />
+			</Color>
+			<Color Name="ReSharper Inplace Format">
+				<Background Type="CT_INVALID" Source="00000000" />
+				<Foreground Type="CT_INVALID" Source="00000000" />
+			</Color>
+			<Color Name="ReSharper URL Segment">
+				<Background Type="CT_INVALID" Source="00000000" />
+				<Foreground Type="CT_INVALID" Source="00000000" />
+			</Color>
 		</Category>
 		<Category Name="Text Editor Text Manager Items" GUID="{58e96763-1d3b-4e05-b6ba-ff7115fd0b7b}">
 			<Color Name="Visible Whitespace">
@@ -11284,6 +11428,20 @@
 			</Color>
 			<Color Name="HyperlinkMouseDown">
 				<Foreground Type="CT_RAW" Source="FF89C6F7" />
+			</Color>
+		</Category>
+		<Category Name="XamarinDesigner" GUID="{78d640b7-154a-4d1e-bbe8-fee14b3ccf29}">
+			<Color Name="DeviceBorder">
+				<Background Type="CT_RAW" Source="FFA1A1A1" />
+			</Color>
+			<Color Name="DesignerSurfaceBackground">
+				<Background Type="CT_RAW" Source="FFF2F2F2" />
+			</Color>
+			<Color Name="DialogErrorText">
+				<Background Type="CT_RAW" Source="FFE51400" />
+			</Color>
+			<Color Name="EditorColorSwatchBorder">
+				<Background Type="CT_RAW" Source="FF808080" />
 			</Color>
 		</Category>
 	</Theme>
