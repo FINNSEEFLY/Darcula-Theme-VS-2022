@@ -1,3 +1,12 @@
+## v1.1.2
+
+- Fix unreadable text (issue https://github.com/FINNSEEFLY/Darcula-Theme-VS-2022/issues/16)
+- Fix a disappearing arrow in TreeView
+- Fix themed dialog window
+- Slightly change the highlighting of the breakpoint code
+- Change the color of the scroll viewport
+- Minor fixes
+
 ## v1.1.1.2
 
 #### This version is only available on the [Visual Studio marketplace](https://marketplace.visualstudio.com/items?itemName=FINNSEEFLY.Darcula-Theme-For-Visual-Studio) and it is completely identical to v1.1.1.
