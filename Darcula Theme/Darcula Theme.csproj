@@ -8,12 +8,6 @@
   <PropertyGroup>
     <ApplicationIcon>Darcula theme.ico</ApplicationIcon>
   </PropertyGroup>
-  <PropertyGroup>
-    <SignAssembly>true</SignAssembly>
-  </PropertyGroup>
-  <PropertyGroup>
-    <AssemblyOriginatorKeyFile>DarculaThemeSN.pfx</AssemblyOriginatorKeyFile>
-  </PropertyGroup>
   <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
@@ -55,10 +49,9 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <None Include="CustomTheme.vstheme">
+    <None Include="Darcula Theme.vstheme">
       <SubType>Designer</SubType>
     </None>
-    <None Include="DarculaThemeSN.pfx" />
     <None Include="source.extension.vsixmanifest">
       <SubType>Designer</SubType>
     </None>
