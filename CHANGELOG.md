@@ -1,3 +1,8 @@
+## v1.1.3
+
+- Add new actual keys for colors
+- Add additional versions support
+
 ## v1.1.2
 
 - Fix unreadable text (issue https://github.com/FINNSEEFLY/Darcula-Theme-VS-2022/issues/16)
