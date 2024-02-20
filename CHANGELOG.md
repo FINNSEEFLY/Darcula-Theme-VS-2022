@@ -1,3 +1,10 @@
+## v1.1.4
+
+- Fix promotion box (welcome page)
+- Fix typo color (without resharper) (issue #23) 
+- Fix compatibility with VS2019 & VS2017
+- Minor changes
+
 ## v1.1.3
 
 - Add new actual keys for colors
