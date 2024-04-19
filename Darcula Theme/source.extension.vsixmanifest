@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
 	<Metadata>
-		<Identity Id="Darcula_Theme.e1e706e2-05d3-4da9-8754-652cd8ab65f4" Version="1.1.6" Language="en-US" Publisher="FINNSEEFLY" />
+		<Identity Id="Darcula_Theme.e1e706e2-05d3-4da9-8754-652cd8ab65f4" Version="1.1.7" Language="en-US" Publisher="FINNSEEFLY" />
 		<DisplayName>Darcula Theme</DisplayName>
 		<Description xml:space="preserve">Theme extension for Visual Studio 2022 based on "Darcula Theme" from rokoroku and inspired by the original "Darcula" from JetBrains.</Description>
 		<MoreInfo>https://github.com/FINNSEEFLY/Darcula-Theme-VS-2022</MoreInfo>
