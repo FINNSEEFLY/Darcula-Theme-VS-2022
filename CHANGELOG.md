@@ -1,10 +1,10 @@
 ## v1.1.7
 
-- Fix sticky scroll color (https://github.com/FINNSEEFLY/Darcula-Theme-VS-2022/issues/29)
+- Fix sticky scroll color (issue https://github.com/FINNSEEFLY/Darcula-Theme-VS-2022/issues/29)
 
 ## v1.1.6
 
-- Fix inline diagnostics font color (Inline diagnostics font color fix https://github.com/FINNSEEFLY/Darcula-Theme-VS-2022/issues/27)
+- Fix inline diagnostics font color (issue https://github.com/FINNSEEFLY/Darcula-Theme-VS-2022/issues/27)
 
 ## v1.1.5
 
