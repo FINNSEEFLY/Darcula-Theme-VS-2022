@@ -1,7 +1,20 @@
+## v1.1.7
+
+- Fix sticky scroll color (https://github.com/FINNSEEFLY/Darcula-Theme-VS-2022/issues/29)
+
+## v1.1.6
+
+- Fix inline diagnostics font color (Inline diagnostics font color fix https://github.com/FINNSEEFLY/Darcula-Theme-VS-2022/issues/27)
+
+## v1.1.5
+
+- Fix incorrect syntax highlighting (issue https://github.com/FINNSEEFLY/Darcula-Theme-VS-2022/issues/25)
+- Adjust according to the current variable options
+
 ## v1.1.4
 
 - Fix promotion box (welcome page)
-- Fix typo color (without resharper) (issue #23) 
+- Fix typo color (without resharper) (issue https://github.com/FINNSEEFLY/Darcula-Theme-VS-2022/issues/23) 
 - Fix compatibility with VS2019 & VS2017
 - Minor changes
 
