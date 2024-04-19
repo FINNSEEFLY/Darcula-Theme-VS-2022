@@ -1,5 +1,5 @@
 ﻿<Themes>
-  <Theme Name="Darcula" GUID="{6cd83142-2600-45d7-adcd-94d92c0bd7e9}" BaseGUID="{ccae1973-1dd0-4455-8be5-7d758ba9fdfc}">
+  <Theme Name="Darcula" GUID="{4ddec39d-7d5e-4b12-8873-8c1d7c366229}" BaseGUID="{6cd83142-2600-45d7-adcd-94d92c0bd7e9}">
     <Category Name="ACDCOverview" GUID="{c8887ac6-3c60-4209-9d69-8f4c12a60044}">
       <Color Name="Chevron">
         <Foreground Type="CT_RAW" Source="FF3C3F41" />
@@ -8854,6 +8854,30 @@
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="StickyScroll Background">
+        <Background Type="CT_RAW" Source="FF323232" />
+        <Foreground Type="CT_INVALID" Source="00000000" />
+      </Color>
+      <Color Name="ReSharper C++ Global Function Usage Identifier">
+        <Background Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_INVALID" Source="00000000" />
+      </Color>
+      <Color Name="ReSharper C++ Member Function Usage Identifier">
+        <Background Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_INVALID" Source="00000000" />
+      </Color>
+      <Color Name="ReSharper C++ Static Member Function Usage Identifier">
+        <Background Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_INVALID" Source="00000000" />
+      </Color>
+      <Color Name="ReSharper C++ Doxygen Command Value">
+        <Background Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_INVALID" Source="00000000" />
+      </Color>
+      <Color Name="ReSharper C++ Doxygen Comment">
+        <Background Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_INVALID" Source="00000000" />
+      </Color>
+      <Color Name="dotCover Code Marker (Partial Covered)">
         <Background Type="CT_INVALID" Source="00000000" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
