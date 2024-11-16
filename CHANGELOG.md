@@ -1,3 +1,7 @@
+## v1.1.8
+- Fix outlining chevron color (issue https://github.com/FINNSEEFLY/Darcula-Theme-VS-2022/issues/31)
+- Minor changes
+
 ## v1.1.7
 
 - Fix sticky scroll color (issue https://github.com/FINNSEEFLY/Darcula-Theme-VS-2022/issues/29)
