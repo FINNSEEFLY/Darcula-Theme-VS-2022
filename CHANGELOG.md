@@ -1,3 +1,8 @@
+## v1.1.8
+
+- Fix outlining chevron color (issue https://github.com/FINNSEEFLY/Darcula-Theme-VS-2022/issues/31)
+- Minor changes
+
 ## v1.1.7
 
 - Fix sticky scroll color (issue https://github.com/FINNSEEFLY/Darcula-Theme-VS-2022/issues/29)
@@ -104,4 +109,5 @@ Fix Environment colors
 - Tab list background
 
 ## v1.0.0
+
 A converted and slightly fixed version of the ["Darcula Theme"](https://marketplace.visualstudio.com/items?itemName=rokoroku.vscode-theme-darcula) for Visual Studio 2022.
