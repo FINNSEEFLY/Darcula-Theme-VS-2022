@@ -1,5 +1,5 @@
 ﻿<Themes>
-  <Theme Name="Darcula" GUID="{71074339-abfb-4b4d-839b-167624754541}" BaseGUID="{4ddec39d-7d5e-4b12-8873-8c1d7c366229}">
+  <Theme Name="Darcula" GUID="{857acd61-371d-4383-81c9-e340e4d50176}" BaseGUID="{71074339-abfb-4b4d-839b-167624754541}">
     <Category Name="ACDCOverview" GUID="{c8887ac6-3c60-4209-9d69-8f4c12a60044}">
       <Color Name="Chevron">
         <Foreground Type="CT_RAW" Source="FF3C3F41" />
@@ -7957,7 +7957,7 @@
       </Color>
       <Color Name="extension method name">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FFFFC66D" />
       </Color>
       <Color Name="event name">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -8585,7 +8585,7 @@
       </Color>
       <Color Name="Method">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF74531F" />
+        <Foreground Type="CT_RAW" Source="FFFFC66D" />
       </Color>
       <Color Name="brace pair level one">
         <Background Type="CT_INVALID" Source="00000000" />

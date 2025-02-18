@@ -1,3 +1,7 @@
+## v1.1.9
+
+- Fix method name color (issue https://github.com/FINNSEEFLY/Darcula-Theme-VS-2022/issues/33)
+
 ## v1.1.8
 
 - Fix outlining chevron color (issue https://github.com/FINNSEEFLY/Darcula-Theme-VS-2022/issues/31)
