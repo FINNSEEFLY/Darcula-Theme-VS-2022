@@ -1,58 +1,85 @@
-# Darcula
+# Darcula Theme for Visual Studio
 
-[![Version](https://vsmarketplacebadges.dev/version/FINNSEEFLY.Darcula-Theme-For-Visual-Studio.svg
-)](https://marketplace.visualstudio.com/items?itemName=FINNSEEFLY.Darcula-Theme-For-Visual-Studio)
+[![Version](https://vsmarketplacebadges.dev/version/FINNSEEFLY.Darcula-Theme-For-Visual-Studio.svg)](https://marketplace.visualstudio.com/items?itemName=FINNSEEFLY.Darcula-Theme-For-Visual-Studio)
 [![Installs](https://vsmarketplacebadges.dev/installs/FINNSEEFLY.Darcula-Theme-For-Visual-Studio.svg)](https://marketplace.visualstudio.com/items?itemName=FINNSEEFLY.Darcula-Theme-For-Visual-Studio)
 [![Rating](https://vsmarketplacebadges.dev/rating-short/FINNSEEFLY.Darcula-Theme-For-Visual-Studio.svg)](https://marketplace.visualstudio.com/items?itemName=FINNSEEFLY.Darcula-Theme-For-Visual-Studio)
-___
 
-## Quick overview
-This theme extension for [Visual Studio 2022](https://visualstudio.microsoft.com/vs/)
-is based on the
-["Darcula Theme"](https://marketplace.visualstudio.com/items?itemName=rokoroku.vscode-theme-darcula)
-from [rokoroku](https://marketplace.visualstudio.com/publishers/rokoroku)
-and inspired by the original "Darcula" from [JetBrains](https://www.jetbrains.com/).
+A carefully crafted dark theme for Visual Studio, bringing the beloved Darcula color scheme to your favorite IDE.
 
-*At the moment, this theme has discrepancies with the Darcula theme for [Rider](https://www.jetbrains.com/rider/).
-But I hope that sooner or later this theme will be equal to the original one.* 😉
+---
 
-## Example
+## 📋 Overview
 
-![Example](https://github.com/FINNSEEFLY/Darcula-Theme-VS-2022/blob/master/Example.png)
-___
-## Installation
+This theme extension brings the popular Darcula color scheme to [Visual Studio](https://visualstudio.microsoft.com/vs/). It's based on the [Darcula Theme for VS Code](https://marketplace.visualstudio.com/items?itemName=rokoroku.vscode-theme-darcula) by [rokoroku](https://marketplace.visualstudio.com/publishers/rokoroku) and inspired by the original Darcula theme from [JetBrains](https://www.jetbrains.com/).
 
-#### It's very simple
+The theme has been converted using Microsoft's [Theme Converter for Visual Studio](https://github.com/microsoft/theme-converter-for-vs) and carefully refined to provide the best possible experience in Visual Studio.
 
-1. **Download** the extension (.vsix file).
-2. **Install** the extension for your Visual Studio 2022.
-3. Follow: **Tools > Theme > Darcula**.
+## 🖼️ Preview
 
-That's it, the installation is complete!
+![Theme Preview](https://github.com/FINNSEEFLY/Darcula-Theme-VS-2022/blob/master/Example.png)
 
-___
-## Font
-You may have noticed that the font does not match the original one of JetBrains products.
-To solve this issue, you need to [download](https://www.jetbrains.com/lp/mono/) 
-and install fonts from the official JetBrains website.
+---
 
-Also, after choosing a theme, follow the path: 
+## 📦 Installation
 
-**Tools > Options > Environment > Fonts and Colors**. 
+Getting started is easy:
 
-In the Font field, select one of the JetBrains fonts (I highly recommend JetBrains Mono)
+1. **Download** the extension (.vsix file) from the [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=FINNSEEFLY.Darcula-Theme-For-Visual-Studio)
+2. **Install** the extension by double-clicking the .vsix file or via Extensions and Updates in Visual Studio
+3. **Activate** the theme: Navigate to **Tools → Theme → Darcula**
 
-___
-## Changelog
-[Changelog](https://github.com/FINNSEEFLY/Darcula-Theme-VS-2022/blob/master/CHANGELOG.md)
-___
-## Conclusion
-Special thanks to [rokoroku](https://marketplace.visualstudio.com/publishers/rokoroku),
-without his work on the theme ["Darcula Theme"](https://marketplace.visualstudio.com/items?itemName=rokoroku.vscode-theme-darcula)
-for [Visual Studio Code](https://code.visualstudio.com/)
- this theme would not exist. VS Code theme has been [converted](https://github.com/microsoft/theme-converter-for-vs)
-and slightly modified in the most poorly converted parts for Visual Studio.
+That's it! Enjoy your new theme! 🎉
 
-Initially, I did this theme extension for myself and as an experiment and did not really count on any result, but now I hope that I have enough time and energy to finish it.
+---
 
-Thank you for installing and have a nice day!
+## 🔤 Recommended Font
+
+For the most authentic experience matching JetBrains products, I recommend using **JetBrains Mono** font.
+
+### Font Installation Steps:
+
+1. **Download** [JetBrains Mono](https://www.jetbrains.com/lp/mono/) from the official JetBrains website
+2. **Install** the font on your system
+3. **Configure** Visual Studio:
+    - Navigate to **Tools → Options → Environment → Fonts and Colors**
+    - In the **Font** dropdown, select **JetBrains Mono** (or another JetBrains font of your choice)
+    - Adjust the size to your preference (recommended: 10-12pt)
+
+---
+
+## 📝 Changelog
+
+See the [Changelog](https://github.com/FINNSEEFLY/Darcula-Theme-VS-2022/blob/master/CHANGELOG.md) for detailed version history and updates.
+
+---
+
+## 🙏 Acknowledgments
+
+This project wouldn't exist without the contributions of the following:
+
+- **[rokoroku](https://marketplace.visualstudio.com/publishers/rokoroku)** - Original creator of the [Darcula Theme for VS Code](https://marketplace.visualstudio.com/items?itemName=rokoroku.vscode-theme-darcula), which served as the foundation for this Visual Studio port
+- **[Microsoft](https://github.com/microsoft/theme-converter-for-vs)** - For providing the Theme Converter tool that made the initial conversion possible
+- **[JetBrains](https://www.jetbrains.com/)** - For the original Darcula theme inspiration
+
+---
+
+## 📄 License & Trademarks
+
+- Visual Studio is a registered trademark of Microsoft Corporation
+- JetBrains and related logos are registered trademarks of JetBrains s.r.o.
+- This theme is a community project and is not officially affiliated with or endorsed by Microsoft or JetBrains
+
+---
+
+## 💬 Feedback & Support
+
+If you encounter any issues or have suggestions for improvements, please feel free to:
+
+- Report issues on [GitHub](https://github.com/FINNSEEFLY/Darcula-Theme-VS-2022/issues)
+- Leave a review on the [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=FINNSEEFLY.Darcula-Theme-For-Visual-Studio)
+
+---
+
+**Thank you for using Darcula Theme for Visual Studio!** ❤️
+
+Happy coding! 👨‍💻👩‍💻

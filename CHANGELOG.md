@@ -1,3 +1,8 @@
+## v1.1.11
+
+- Updated README.md with detailed instructions and refined content.
+- Updated logo to align with trademark compliance.
+
 ## v1.1.10
 
 - Fix the color of overloaded operator (issue https://github.com/FINNSEEFLY/Darcula-Theme-VS-2022/issues/35)
